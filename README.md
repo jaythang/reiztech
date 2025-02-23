@@ -40,7 +40,7 @@ This project automates the login functionality of the OrangeHRM demo application
 
 - **Run specific feature:**
   ```sh
-  npx cucumber-js features/login.feature
+  npx cucumber-js --require tests/
   ```
 
 ## Expected Outcomes
