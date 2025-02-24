@@ -54,5 +54,4 @@ This project automates the login functionality of the OrangeHRM demo application
 ## Contributions
 Feel free to submit issues or pull requests to improve the script.
 
-## License
-This project is open-source under the MIT License.
+
